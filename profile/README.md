@@ -63,7 +63,8 @@
 
 ### 
 
-# 🎨 앱 디자인
+# 🧠 크롤링 로직
+
 
 # 👥 Contributor👇
 ### Front-End
