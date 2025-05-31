@@ -50,11 +50,7 @@
 
 # 👥 Contributor👇
 ### Front-End
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> 
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"> 
-<img src="https://img.shields.io/badge/Retrofit-D20A0A?style=for-the-badge&logoColor=white"> 
-<img src="https://img.shields.io/badge/OkHttp-2C5BB4?style=for-the-badge&logoColor=white"> 
-<img src="https://img.shields.io/badge/Glide-007054?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/Retrofit-D20A0A?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/OkHttp-2C5BB4?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Glide-007054?style=for-the-badge&logoColor=white">
 
 |Name|Github|Email|
 |:---|:---|:---|
@@ -62,9 +58,7 @@
 |허진수|[HJTN](https://github.com/HJTN)|zintnm21@gmail.com|
 
 ### Back-End
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/h2database-09476B?style=for-the-badge&logo=h2database&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/h2database-09476B?style=for-the-badge&logo=h2database&logoColor=white">
 
 |Name|Github|Email|
 |:---|:---|:---|
