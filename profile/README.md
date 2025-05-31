@@ -61,6 +61,10 @@
 ### E-R Diagram
 ![E-R Diagram](./erd.png)
 
+### 
+
+# 🎨 앱 디자인
+
 # 👥 Contributor👇
 ### Front-End
 
