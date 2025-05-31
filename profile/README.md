@@ -50,7 +50,7 @@
 
 # 👥 Contributor👇
 ### Front-End
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/Retrofit-D20A0A?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/OkHttp-2C5BB4?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Glide-007054?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Retrofit-D20A0A?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/OkHttp-2C5BB4?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Glide-007054?style=for-the-badge&logoColor=white">
 
 |Name|Github|Email|
 |:---|:---|:---|
