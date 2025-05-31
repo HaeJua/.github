@@ -66,9 +66,25 @@
 # 🧠 크롤링 로직
 인스타그램 게시물 크롤링은 계정별로 게시물을 수집한 뒤, 사전에 정의된 키워드와 게시 연도를 기준으로 필터링하여 저장된다.
 
-🎯 키워드 기반 분류
+키워드 기반 분류
 
-🗂 크롤링 대상 계정 예시
+<img width="537" alt="스크린샷 2025-05-31 오후 5 39 53" src="https://github.com/user-attachments/assets/cba59db1-9ef0-401c-aa4e-423f896d32ae" />
+
+크롤링 대상 계정 예시 (다른 계정 정보는 crawling - config.py의 ACCOUNTS에서 확인) 
+
+<img width="865" alt="스크린샷 2025-05-31 오후 5 48 25" src="https://github.com/user-attachments/assets/e39e2f83-b091-4394-8d3a-6673b2ebb281" />
+
+키워드에 맞는 게시물 크롤링
+
+- 단과대 / 학과 / 총동아리 계정에서 키워드에 매칭되는 게시물만 파싱
+<img width="775" alt="스크린샷 2025-05-31 오후 5 05 33" src="https://github.com/user-attachments/assets/8b55a937-e071-427a-987e-73d59f521243" />
+
+2025년 이후 게시물만 크롤링
+
+- 2024 게시물 로드 시 자동으로 크롤링 종료
+
+<img width="775" alt="스크린샷 2025-05-31 오후 5 05 33" src="https://github.com/user-attachments/assets/885f6f32-5524-477f-9539-dc5f511bd8eb" />
+
 
 # 👥 Contributor👇
 ### Front-End
