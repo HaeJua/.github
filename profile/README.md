@@ -47,6 +47,11 @@
   > 크롤링에 빠진 게시물이나 사용자가 알고 있으나 앱 서비스에 없는 게시물을 제보 기능을 통해 알릴 수 있습니다.     
   ❗ 그러나, 즐겨찾기 게시물을 관리하는 방향에서 로그인 / 회원가입 기능이 필요할 것 같아 추후에 구현할 예정입니다.     
 
+
+# 🎨 앱 디자인
+![UI 디자인](./app_ui.png)
+
+
 # 📝 요구사항 명세서
 
 ![Use-Case Diagram](./usecase.png)
@@ -72,6 +77,3 @@
 |:---|:---|:---|
 |송우승|[songwooseung](https://github.com/songwooseung)|dntmd2061@knu.ac.kr|
 |정세엽|[clcok](https://github.com/clcok)|einstein3028@knu.ac.kr|
-
-# 🎨 앱 디자인
-![UI 디자인](./app_ui.png)
